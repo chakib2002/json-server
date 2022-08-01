@@ -4,37 +4,50 @@
       "name" : "Newsboy Cap Oversized",
       "category":"Hats",
       "price":"34.99$",
-      "sexe":"man",
+      "sexe":"men",
       "photo":"https://norwegianrain.com/wp-content/uploads/2021/02/Newsboy-Cap-OHB-dark-grey5-scaled-1600x2133.jpeg"
     },
     {
       "name" : "Single Breasted Homme",
       "category":"Coats",
       "price":"89.99$",
-      "sexe":"man",
+      "sexe":"men",
       "photo":"https://norwegianrain.com/wp-content/uploads/2020/12/Single-Breasted-Homme-Mixed-Black-__1-scaled-1600x2133.jpg"
     },
     {
       "name" : "Noir Femme",
       "category":"Coats",
       "price":"99.99$",
-      "sexe":"woman",
+      "sexe":"women",
       "photo":"https://norwegianrain.com/wp-content/uploads/2022/03/Harmattan-Unisex-Mixed-Sand-On-her-Norwegian_Rain_day_1v2_170%C2%A9shehanhanwellage-1600x2134.jpeg"
     },
     {
       "name" : "TALL TANIA BOOTS",
       "category":"Shoes",
       "price":"34.99$",
-      "sexe":"woman",
+      "sexe":"women",
       "photo":"https://img01.ztat.net/article/spp-media-p1/b248190f266d43a58fc469282b79d7bc/723b1ce9912542daa445188fc28e1589.jpg?imwidth=300"
     },
     {
       "name" : "Single Breasted Homme",
       "category":"Coats",
       "price":"199.99$",
-      "sexe":"man",
+      "sexe":"men",
       "photo":"https://norwegianrain.com/wp-content/uploads/2021/05/Single-Breasted-Homme-SLW-sand-3-scaled-1600x2133.jpeg"
-    }
-      
+    },
+    {
+      "name" : "Mayfair Femme Ltd Edt",
+      "category":"Coats",
+      "price":"145.48$",
+      "sexe":"women",
+      "photo":"https://norwegianrain.com/wp-content/uploads/2022/03/Mayfair-Femme-Ltd-Edt-Super-Lightweight-Melange-Sage-W-Mixed-Sand-Contrast-Norwegian_Rain_day_1v2_04%C2%A9shehanhanwellage-1600x2133.jpeg"
+    },
+    {
+      "name" : "Men's Overcoat",
+      "category":"Coats",
+      "price":"324.99$",
+      "sexe":"men",
+      "photo":"https://slimages.macysassets.com/is/image/MCY/products/8/optimized/8706118_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp"
+    }      
   ]
 }
