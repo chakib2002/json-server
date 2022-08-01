@@ -1,8 +1,40 @@
 {
   "topsellingproducts" : [
     {
-      "name" : "mvmp f60 watch",
-      "price":"200$"
+      "name" : "Newsboy Cap Oversized",
+      "category":"Hats",
+      "price":"34.99$",
+      "sexe":"man",
+      "photo":"https://norwegianrain.com/wp-content/uploads/2021/02/Newsboy-Cap-OHB-dark-grey5-scaled-1600x2133.jpeg"
+    },
+    {
+      "name" : "Single Breasted Homme",
+      "category":"Coats",
+      "price":"89.99$",
+      "sexe":"man",
+      "photo":"https://norwegianrain.com/wp-content/uploads/2020/12/Single-Breasted-Homme-Mixed-Black-__1-scaled-1600x2133.jpg"
+    },
+    {
+      "name" : "Noir Femme",
+      "category":"Coats",
+      "price":"99.99$",
+      "sexe":"woman",
+      "photo":"https://norwegianrain.com/wp-content/uploads/2022/03/Harmattan-Unisex-Mixed-Sand-On-her-Norwegian_Rain_day_1v2_170%C2%A9shehanhanwellage-1600x2134.jpeg"
+    },
+    {
+      "name" : "TALL TANIA BOOTS",
+      "category":"Shoes",
+      "price":"34.99$",
+      "sexe":"woman",
+      "photo":"https://img01.ztat.net/article/spp-media-p1/b248190f266d43a58fc469282b79d7bc/723b1ce9912542daa445188fc28e1589.jpg?imwidth=300"
+    },
+    {
+      "name" : "Single Breasted Homme",
+      "category":"Coats",
+      "price":"199.99$",
+      "sexe":"man",
+      "photo":"https://norwegianrain.com/wp-content/uploads/2021/05/Single-Breasted-Homme-SLW-sand-3-scaled-1600x2133.jpeg"
     }
+      
   ]
 }
